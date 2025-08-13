@@ -1,0 +1,49 @@
+ARGHYA CHAKRABORTY 
+ +91-7439509955 
+3rd Year Undergraduate, The Neotia University, India 
+ arghyachakra2006@gmail.com 
+ English, Bengali, Hindi 
+ LinkedIn: Arghya1901 
+
+SUMMARY
+A results-driven Computer Science undergraduate specializing in AI and ML, seeking to leverage academic and internship experience in data science and machine learning to contribute to innovative Python development roles with a focus on AI and NLP.
+
+SKILLS
+- Programming Languages: Python, Java, C, R
+- Libraries/Frameworks: Pandas, NumPy, Matplotlib, Scikit-learn, Beautiful Soup
+- Machine Learning: Expertise in NLP, sentiment analysis, classification, regression, feature engineering, model evaluation
+- Databases: MySQL, Oracle
+- Operating Systems: Linux (Basic CLI)
+- Soft Skills: Leadership, Management, Teamwork, Effective Communication, Problem-Solving, Presentation Skills
+
+PROFESSIONAL EXPERIENCE
+
+Code Clause Pvt. Ltd., Data Science Intern, Remote, Pune, 1st June 2025 – 1st July 2025
+
+- Developed and deployed two successful NLP-based machine learning projects: Sentiment Analysis on Movie Reviews and Movie Genre Prediction, utilizing text preprocessing, TF-IDF vectorization, and classification algorithms.
+- Applied natural language processing and machine learning techniques to analyze textual data and build predictive models, contributing to the company's data-driven decision-making process.
+
+EDUCATION
+
+The Neotia University, Bachelor of Technology in Computer Science with specialization in AI & ML, 2023-2027 (Expected)
+- SGPA: 9.62/10, CGPA: 9.57/10 (Till 4th Semester)
+- Coursework: Advanced Machine Learning, Artificial Intelligence, Natural Language Processing, Computer Vision, Algorithms and Data Structures, Database Management Systems
+
+Behala High School, 2015-2023
+- 10th Standard: Scored 91%
+- 12th Standard: Scored 80% (Physics, Chemistry, Maths, Biology)
+
+PROJECTS
+
+- Music Therapy Recommender: Created a web application that detects user mood through text analysis using NLP and recommends therapeutic Hindi-Bengali songs. Employed emotion classification and clustering techniques for personalized music suggestions.
+- Taxi Fare Prediction Model: Built a regression model to forecast taxi fares based on ride details, utilizing supervised learning, feature engineering, and evaluation metrics like RMSE and R² for accurate predictions.
+- Product Recommendation System: Developed a content-based recommendation engine using cosine similarity to suggest similar products, enhancing user experience and sales potential.
+- Movie Genre Prediction: Constructed an ML model to classify movie genres from plot summaries, leveraging TF-IDF and classification algorithms for accurate genre assignments.
+
+CERTIFICATIONS
+- Python Libraries for Data Science, Simplilearn, June 2024
+- 30 Hours Hands-on Training in Foundations and Practical Applications of AWS, Dataspace Academy, Nov 2024
+- One Week STTP — Revolutionizing Signal Processing: The Impact of AI and ML, DIT-IEEE-SPS, Mar 2025
+
+HOBBIES
+Drawing, staying updated with technical content on YouTube, reading storybooks, and listening to music.
