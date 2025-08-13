@@ -1,6 +1,6 @@
 # 🚀 AI-Powered ATS Resume Optimiser & Generator  
 
-**Make your resume pass Applicant Tracking Systems (ATS) and impress recruiters** — powered by **Cohere AI**.  
+**Make your resume pass Applicant Tracking Systems (ATS) and impress recruiters**.  
 
 This Python tool helps you **optimise your resume** to match a specific job description by improving keyword relevance, readability, and recruiter appeal — all while keeping it **ATS-friendly**.  
 
