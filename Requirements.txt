@@ -1,0 +1,8 @@
+streamlit
+os
+cohere
+fitz
+python-docx
+PyMuPDF
+reportlab
+Streanlit
